@@ -1,6 +1,8 @@
 # hyperdraw
 Drawing octagonal tilings of hyperbolic space
 
+![](https://github.com/geodavic/hyperdraw/blob/main/pi2_color_nolabel.pdf)
+
 ------
 
 This is a Mathematica script that will generate and draw an octagonal tiling of the Poincare disk. The original intent was to get a natural pictoral representation of the Calyey graph of the fundamental group of a genus 2 Riemann surface. The corresponding Riemann surface is obtained by gluing together the geodesics with the same label/color in the disk.
