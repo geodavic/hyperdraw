@@ -1,7 +1,7 @@
 # hyperdraw
 Drawing octagonal tilings of hyperbolic space
 
-![](https://github.com/geodavic/hyperdraw/blob/main/pi2_color_nolabel.pdf)
+![](https://github.com/geodavic/hyperdraw/blob/main/img.png)
 
 ------
 
